@@ -33,12 +33,12 @@ python analyze_ecommerce_sales.py
 ## Outputs
 
 - Visualizations:
-  - `category_sales.png`
-  - `region_sales.png`
-  - `monthly_sales_trend.png`
-  - `top_products.png`
-- Text Summary:
-  - `sales_summary.txt`
+  - ![category_sales](https://github.com/user-attachments/assets/2cdee184-f09e-4943-bed3-81c303f3b86e)
+
+  - ![monthly_sales_trend](https://github.com/user-attachments/assets/4d1cc0f2-0ba7-4191-9f35-528d5f6ccdda)
+
+  - ![top_products](https://github.com/user-attachments/assets/ffe36c2c-5ec8-4ea0-b3fa-61ca8ce15e69)
+
 
 ## License
 
